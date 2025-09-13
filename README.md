@@ -1,0 +1,2 @@
+# WorldQuant-University---Applied-AI-Lab-Deep-Learning-for-Computer-Vision
+This repository showcases my journey through the WorldQuant University Applied AI Lab on Deep Learning for Computer Vision. It includes six real-world projects ranging from wildlife classification and crop disease monitoring to medical image generation while building strong skills in PyTorch, neural networks, and model deployment.
