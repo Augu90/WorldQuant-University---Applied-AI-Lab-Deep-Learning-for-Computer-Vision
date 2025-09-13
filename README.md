@@ -1,4 +1,4 @@
-WorldQuant University - Applied AI Lab: Deep Learning for Computer Vision 🤖📸
+#WorldQuant University - Applied AI Lab: Deep Learning for Computer Vision 🤖📸#
 
 Welcome to my repository documenting my journey through the WorldQuant University Applied AI Lab. This space showcases my learning progress and projects focused on Deep Learning for Computer Vision.
 
